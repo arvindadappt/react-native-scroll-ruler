@@ -1,7 +1,7 @@
 {
   "name": "react-native-scroll-ruler",
   "version": "1.2.1.1",
-  "homepage": "https://github.com/mathankadappt/react-native-scroll-ruler/blob/master/README.md",
+  "homepage": "https://github.com/arvindadappt/react-native-scroll-ruler/blob/master/README.md",
   "description": "ReactNative版选择身高体重的横向刻度尺组件，兼容Android和iOS",
   "main": "index.js",
   "scripts": {
